@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
-- 📄 Know about my experiences [https://l1nk.dev/Maahi03](https://l1nk.dev/Maahi03)
+- 📄 Know about my experiences [Mahi03](https://l1nk.dev/Maahi03)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
