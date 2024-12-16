@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mahi Mistry</h1>
-<h3 align="left">Passionate About Transforming Data Into Powerful Insights & Captivating Visual Narratives.</h3>
+<h3 align="left">Passionate Data Analyst Turning Raw Data Into Engaging Insights & Visual Stories</h3>
 
 - 🌱 I’m currently learning **Data Science & ML Program**
 
