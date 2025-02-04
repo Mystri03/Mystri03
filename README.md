@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mahi Mistry</h1>
 <h3 align="left">Passionate Data Analyst Turning Raw Data Into Engaging Insights & Visual Stories</h3>
 
--  🌱 **Aspiring Data Scientist | Data Analyst**
+- ✨ **Data Scientist | Data Analyst | Business Intelligence Analyst**
 
 - 🌱 I recently completed my **Data Science & ML Program** from **NIIT**
 
