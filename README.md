@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I'm Mahi Mistry</h1>
 <h3 align="left">Passionate Data Analyst Turning Raw Data Into Engaging Insights & Visual Stories</h3>
 
-- 🌱 I’m currently learning **Data Science & ML Program**
+-  🌱 **Aspiring Data Scientist | Data Analyst**
+
+- 🌱 I recently completed my **Data Science & ML Program** from **NIIT**
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
-- 📄 Know about my experiences [Mahi03](https://l1nk.dev/Maahi03)
+- 📄 Know about my experiences [Mahi](https://drive.google.com/file/d/1I0cXgWFp4rlvNRmD_1Za09ZTxIPDis8K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
