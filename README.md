@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
-- 📄 Know about my experiences [Mahi](https://drive.google.com/file/d/1I0cXgWFp4rlvNRmD_1Za09ZTxIPDis8K/view?usp=sharing)
+- 📄 Know about my experiences [Mahi](https://drive.google.com/file/d/1mfpmD-zUVr2V-OxS9UD3rvGgJdPvZNz0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
