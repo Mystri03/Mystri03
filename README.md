@@ -3,7 +3,7 @@
 
 - ✨ **Data Scientist | Data Analyst | Business Intelligence Analyst**
 
-- 🌱 I recently completed my **Data Science & ML Program** from **NIIT**
+- 🌱 I recently completed my **Data Science & ML Program** from [**NIIT**](https://drive.google.com/file/d/1cJ6nfKa229HGow3hRDIIFDhd_r2D0YoI/view?usp=drive_link)
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
