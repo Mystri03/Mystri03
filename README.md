@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Mahi Mistry</h1>
 <h3 align="left">Passionate About Transforming Data Into Powerful Insights & Captivating Visual Narratives.</h3>
 
-- ✨ **Data Scientist | Data Analyst | Business Intelligence Analyst**
+- ✨ **Data Analyst | Data Scientist | Business Intelligence Analyst**
 
 - 🌱 I recently completed my **Data Science & ML Program** from [**NIIT**](https://drive.google.com/file/d/1cJ6nfKa229HGow3hRDIIFDhd_r2D0YoI/view?usp=drive_link)
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
-- 👨🏻‍💻 Know about my experiences [📄](https://drive.google.com/file/d/1cXhoPemINX_Jf2PdRyGfRxxsQyG2uNu5/view?usp=drivesdk)
+- 👨🏻‍💻 Know about my experiences [📄](https://drive.google.com/file/d/1cXhoPemINX_Jf2PdRyGfRxxsQyG2uNu5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
