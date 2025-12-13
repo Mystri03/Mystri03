@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Mahi Mistry</h1>
+<h1 align="center">Hello, I'm Mahi Mistry</h1>
 <h3 align="left">Designing data experiences that inform, inspire, and influence business direction.</h3>
 
 - ✨ **Data Analyst | Data Scientist | Business Intelligence Analyst**
