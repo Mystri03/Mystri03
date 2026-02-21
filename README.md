@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mahi Mistry</h1>
 <h3 align="left">Designing data experiences that inform, inspire, and influence business direction.</h3>
 
-- ✨ **Data Science Intern | Machine Learning **
+- ✨ ** Data Science Intern | Machine Learning **
 
 - 🌱 I recently completed my **Data Science & ML with GenAI Program** from [**NIIT**](https://drive.google.com/file/d/1cJ6nfKa229HGow3hRDIIFDhd_r2D0YoI/view?usp=drive_link)
 
