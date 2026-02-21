@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Mahi Mistry</h1>
 <h3 align="left">Designing data experiences that inform, inspire, and influence business direction.</h3>
 
-- ✨ **Data Analyst | Data Scientist | Business Intelligence Analyst**
+- ✨ **Data Science Intern | Machine Learning **
 
 - 🌱 I recently completed my **Data Science & ML with GenAI Program** from [**NIIT**](https://drive.google.com/file/d/1cJ6nfKa229HGow3hRDIIFDhd_r2D0YoI/view?usp=drive_link)
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
-- 👨🏻‍💻 Know about my experiences [📄](https://drive.google.com/file/d/1sBnPBNWMpEM9xmUFPx57Xw-WHUxmpsf-/view?usp=sharing)
+- 👨🏻‍💻 Know about my experiences [📄](https://drive.google.com/file/d/1T1sM-2hcZPHG7PrN0VOw3Jf0wfVu9OM5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
