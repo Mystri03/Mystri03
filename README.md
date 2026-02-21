@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mistrymahi03@gmail.com**
 
-- 👨🏻‍💻 Know about my experiences [📄](https://drive.google.com/file/d/1T1sM-2hcZPHG7PrN0VOw3Jf0wfVu9OM5/view?usp=drive_link)
+- 👨🏻‍💻 Know about my experiences [📄](https://drive.google.com/file/d/1H6lnSrGFKAlNp70H0KnyIEh1IXuivLJB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
